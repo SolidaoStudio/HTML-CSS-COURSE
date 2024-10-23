@@ -1,0 +1,38 @@
+a{
+    color: rgb(5, 126, 142);
+}
+
+.product{
+    font-weight: bold;
+}
+.price{
+    font-weight: bolder;
+    color: rgb(4, 124, 4);
+}
+
+button{
+    width: 150px;
+    padding: 6px 0;
+    border: 0;
+    border-radius: 15px;
+    transition: 0.15s;
+    cursor: pointer;
+}
+button:active{
+    opacity: 0.5;
+}
+.button-1 {
+    background: rgb(255, 216, 20);
+    color: black;
+    margin-right: 10px;
+  }
+  .button-1:hover {
+    background:rgb(238, 189, 1);
+  }
+  .button-2 {
+    background: rgb(245, 150, 25);
+    color: black;
+  }
+  .button-2:hover {
+    background:rgb(241, 122, 1);
+  }

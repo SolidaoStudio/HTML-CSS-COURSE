@@ -1,0 +1,173 @@
+      button{
+        margin: 6px 2px;
+        cursor: pointer;
+        transition: 0.1s;
+      }
+      button:active{
+        opacity: 0.7;
+      }
+
+      /*Uber - Opacity*/
+      .Uber {
+        background: rgb(0, 0, 0);
+        color: white;
+        padding: 8px 18px;
+        border: 0;
+      }
+      .Uber:hover{
+        opacity: 0.90;
+      }
+      .Uber:active{
+        opacity: 0.7;
+      }
+
+      /*Amazon - Background color*/
+      .Amazon {
+        background: rgb(255, 216, 20);
+        color: black;
+        padding: 5px 30px;
+        border: 0;
+        border-radius: 15px;
+      }
+      .Amazon:hover {
+        background:rgb(232, 196, 19);
+      }
+
+      /*GitHub - Shadow*/
+      .GitHub {
+        background: rgb(46, 164, 79);
+        color: white;
+        font-weight: bold;
+        padding: 8px 18px;
+        border: 0;
+        border-radius: 6px;
+      }
+      .GitHub:hover{
+        box-shadow: 2px 2px 4px rgb(207, 207, 207);
+      }
+      
+      /*booststrap - background color, text*/
+      .Booststrap-1 {
+        background: rgb(121, 82, 179);
+        color: white;
+        font-weight: bold;
+        padding: 8px 18px;
+        border: 0;
+        border-radius: 4px;
+      }
+      .Booststrap-1:hover{
+        background: #563981;
+      }
+      .Booststrap-2 {
+        background: white;
+        color: rgb(61, 61, 61);
+        font-weight: bold;
+        padding: 7px 16px;
+        border: 1px solid rgb(61, 61, 61);
+        border-radius: 4px;
+      }
+      .Booststrap-2:hover{
+        background: rgb(61, 61, 61);
+        color: white;
+      }
+
+
+      /*Linkedin - Background color, border width*/
+      .Linkedin-1 {
+        background: rgb(10, 102, 194);
+        color: white;
+        font-weight: bold;
+        padding: 8px 18px;
+        border: 0;
+        border-radius: 18px;
+      }
+      .Linkedin-1:hover{
+        background-color: rgb(0, 55, 116);
+      }
+      .Linkedin-2 {
+        background: white;
+        color: rgb(10, 102, 194);
+        font-weight: bold;
+        border: 1px solid rgb(10, 102, 194);
+        border-radius: 18px;
+        padding: 7px 16px;
+        box-sizing: border-box;
+        transition: 0.1s;
+      }
+      .Linkedin-2:hover {
+        background: rgb(218, 231, 249);
+        padding: 6px 15px;
+        border-width: 2px;
+      }
+
+      /*Pagination*/
+      .Pagination{
+        padding: 10px 6px;
+        border: 1px solid black;
+        border-radius: 3px;
+      }
+      a{
+        margin: 6px;
+      }
+
+      /*Stretch*/
+      .Stretch{
+        background: green;
+        color: white;
+        border: 0;
+        border-radius: 15px;
+        padding: 10px 30px;
+      }
+      .Stretch:hover{
+        padding: 20px 60px;
+        border-radius: 0;
+      }
+
+      /*3D Click*/
+      .Click-3D{
+        background: rgb(27, 44, 128);
+        color: white;
+        border: 0;
+        padding: 10px 30px;
+        box-shadow: 4px 4px 2px rgb(113, 113, 113);
+      }
+      .Click-3D:active{
+        opacity: 1;
+        box-shadow: 0 0 0 0;
+        margin: 6px 0 0 6px ;
+      }
+
+      /*Margin and padding together*/
+      .Expansion-1{
+        background: rgb(204, 69, 107);
+        color: white;
+        border: 0;
+        padding: 10px 30px;
+        margin: 10px ;
+      }
+      .Expansion-1:hover{
+        padding: 10px 40px;
+        margin: 0;
+      }
+      .Expansion-2{
+        background: rgb(204, 69, 107);
+        color: white;
+        border: 0;
+        padding: 10px 30px;
+        margin: 10px;
+      }
+      .Expansion-2:hover{
+        padding: 10px 40px;
+        margin: 0;
+      }
+      .Expansion-3{
+        background: rgb(204, 69, 107);
+        color: white;
+        border: 0;
+        padding: 10px 30px;
+        margin: 10px
+      }
+      .Expansion-3:hover{
+        padding: 10px 40px;
+        margin: 0px;
+      }
